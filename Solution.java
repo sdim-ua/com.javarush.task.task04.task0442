@@ -19,7 +19,7 @@ public class Solution {
           }
      }   
        
-    System.out.println(sum + +1);     
+    System.out.println(sum +1);     
         
     }
 }
